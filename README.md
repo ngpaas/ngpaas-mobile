@@ -3,7 +3,7 @@
 </div>
 
 # Overview
-The repository contains the innovation and r&d part for the NGPaaS project.
+The repository contains the mobile application for the NGPaaS project.
 
 
 ### For more information
